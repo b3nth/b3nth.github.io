@@ -10,3 +10,7 @@ Percy Jackson ist ein griechischer Halbgott, genauer ein Sohn des Meeresgotts Po
 ## Zitat
 
 >> We have a dam problem.
+
+## Bild
+
+<img src="./pj.png" />
